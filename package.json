@@ -1,5 +1,5 @@
 {
-  "name": "romanization",
+  "name": "node-romanization",
   "version": "0.0.2",
   "description": "Romanizes non-latin letters.",
   "main": "index.js",

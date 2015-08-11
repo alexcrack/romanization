@@ -1,4 +1,6 @@
-# romanization
+# node-romanization
+
+# This is fork of https://github.com/streamich/romanization (https://www.npmjs.com/package/romanization)
 
 Replaces these characters:
 
