@@ -1,0 +1,25 @@
+{
+  "name": "romanization",
+  "version": "0.0.2",
+  "description": "Romanizes non-latin letters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcrack/romanization.git"
+  },
+  "keywords": [
+    "romanization",
+    "translit",
+    "romanize",
+    "transliteration"
+  ],
+  "author": "streamich@dalecky.com, a13xcrack@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexcrack/romanization/issues"
+  },
+  "homepage": "https://github.com/alexcrack/romanization#readme"
+}
