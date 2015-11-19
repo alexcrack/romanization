@@ -1,6 +1,6 @@
 {
   "name": "node-romanization",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Romanizes non-latin letters.",
   "main": "index.js",
   "scripts": {
