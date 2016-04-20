@@ -1,6 +1,8 @@
 # node-romanization
 
-# This is fork of https://github.com/streamich/romanization (https://www.npmjs.com/package/romanization)
+[![Build Status](https://travis-ci.org/alexcrack/romanization.svg?branch=v0.0.5)](https://travis-ci.org/alexcrack/romanization)
+
+This is fork of https://github.com/streamich/romanization (https://www.npmjs.com/package/romanization)
 
 Replaces these characters:
 
