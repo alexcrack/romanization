@@ -1,4 +1,4 @@
-var romanize = require("./index.js");
+var romanize = require("./../index.js");
 
 
 var orig = "хоккей";
