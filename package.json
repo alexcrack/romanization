@@ -4,7 +4,7 @@
   "description": "Romanizes non-latin letters.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/alexcrack/romanization/issues"
   },
-  "homepage": "https://github.com/alexcrack/romanization#readme"
+  "homepage": "https://github.com/alexcrack/romanization#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
